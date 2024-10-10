@@ -11,7 +11,7 @@ Why Use This Program? This program is perfect for anyone interested in understan
 
 How to Use the Program? Getting started with the Caesar Cipher program is easy. Just follow these steps:
 
-Clone the repository to your local machine: git clone https://github.com/irfaanvk/PRODIGY_CS_01
+Clone the repository to your local machine: git clone https://github.com/irfaanvk/PRODIGY_CS_01.git
 
 Navigate to the project directory: cd caesar-cipher
 
